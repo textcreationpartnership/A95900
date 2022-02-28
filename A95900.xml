@@ -1,0 +1,947 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summarie, or short survey of the annalls and most remarkable records of King Charles his reigne, from the first yeare thereof to this present, 1646. VVherein wee may plainly see how the Popish, Jesuiticall and prelaticall malignant party have indevoured the ruine of this church and kingdom, but was by Gods mercy most miraculously prevented. / Collected by John Vicars.</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95900</idno>
+            <idno type="STC">Wing V330</idno>
+            <idno type="STC">Thomason 669.f.10[101]</idno>
+            <idno type="STC">ESTC R210649</idno>
+            <idno type="EEBO-CITATION">99869427</idno>
+            <idno type="PROQUEST">99869427</idno>
+            <idno type="VID">121803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121803)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[101])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summarie, or short survey of the annalls and most remarkable records of King Charles his reigne, from the first yeare thereof to this present, 1646. VVherein wee may plainly see how the Popish, Jesuiticall and prelaticall malignant party have indevoured the ruine of this church and kingdom, but was by Gods mercy most miraculously prevented. / Collected by John Vicars.</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by John Dever &amp; [Rob]ert Ibbitson, for T. Jenner, and are to be sold at the Royall-Exchange,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved equestrian portrait of Charles I.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <head>
+            <pb facs="tcp:121803:1"/>A SUMMARIE, OR SHORT SURVEY
+OF THE
+Annalls and moſt Remarkable Records of King CHARLES His
+Reigne, from the firſt YEARE thereof to this preſent, 1646.</head>
+         <head type="sub">VVherein wee may Plainly ſee how the Popiſh, Jeſuiticall and Prelaticall Malignant Party have indevoured the Ruine
+of this Church and Kingdom, but was by Gods mercy moſt miraculouſly prevented.</head>
+         <head>
+            <figure>
+               <head>
+                  <hi>CAROLVS</hi>
+D: G: Magnae
+Britt: Fra: et
+Hiber: Rex
+Fidei
+Defenſor</head>
+               <p>Sol Orbem rediens,
+Sic Rex Illuminat <g ref="char:V">Ʋ</g>rbem.</p>
+               <lg>
+                  <l>Returne in Peace Great CHARLES, redreſs our Woes:</l>
+                  <l>For-ſake, at length thyne, and the Kingdomes Foes.</l>
+                  <l>Thy Gratious Preſence will more comfort bring,</l>
+                  <l>Then Phoebus ſplendor to a backward Spring.</l>
+               </lg>
+            </figure>
+         </head>
+         <div type="part">
+            <head>1 Parliament.</head>
+            <p>1 <seg rend="decorInit">I</seg>N the firſt year of King <hi>Charles</hi> his Reign, a Parliament be<g ref="char:EOLhyphen"/>ing
+called at <hi>Oxford</hi> (the very firſt in his Reign) two ſubſidies
+were, firſt granted, no grievances removed, but the ſaid Par<g ref="char:EOLhyphen"/>liament
+ſoon diſſolved.</p>
+            <p>2. The ſad effects which this Parliament produced, were
+the loſſe of <hi>Rochell,</hi> by the unhappy help of <hi>Englands</hi> Ships.</p>
+            <p>3. The diverſion of a moſt facile and hopefull warre from
+the <hi>Weſt-Indies,</hi> to a moſt expenſive and ſucceſſeleſſe attempt on <hi>Cales.</hi>
+            </p>
+            <p>4. The bloody and unbleſſed attempt on the peace concluded with <hi>Spain,</hi> with<g ref="char:EOLhyphen"/>out
+conſent of a Parliament, contrary to a promiſe formerly made to the King<g ref="char:EOLhyphen"/>dome
+by King <hi>James,</hi> a little before his death; whereby the Cauſe of the <hi>Palati<g ref="char:EOLhyphen"/>nate</hi>
+was altogether moſt ſhamefully deſerted by us.</p>
+            <p>6. The Kingdom ſuddenly billetted with Souldiers, and a concomitant project
+ſet on foot for <hi>Germane</hi> Horſes to enforce men, by fear, to fall before arbitrary and
+tyrannicall taxations, continually to be laid upon them.</p>
+         </div>
+         <div type="part">
+            <head>2. Parliament.</head>
+            <p>7. The diſſolution of a ſecond Parliament at <hi>Weſtminſter,</hi> in the ſecond year of
+King <hi>Charles,</hi> after a declarative grant of no leſſe than five Subſidies, and the ſad
+and bad iſſues that followed, yea, flowed on the Kingdome thereupon.</p>
+            <p>8. As firſt, the violent exacting from the people of that mighty ſumme of the
+five Subſidies, or a ſumme, equall to it by a Commiſſion for a Royall-Loan, as it
+was called.</p>
+            <p>9. Many worthy Gentlemen impriſoned and vexed, that refuſed to pay it.</p>
+            <p>10. Great ſummes of money extorted from Subjects by Privy Seals and Exciſes.</p>
+            <p>11. The moſt hopefull Petition of Right, blaſted in the very bloſſome of it.</p>
+         </div>
+         <div type="part">
+            <head>3 Parliament.</head>
+            <p>12. A third Parliament called, and quickly broken in the fourteenth year of
+the King, and therein Parliamentary priviledges extreamly violated by after ill<g ref="char:EOLhyphen"/>uſage
+of ſome of the beſt and worthieſt Members thereof, who were clapt up cloſe
+priſoners, denied all ordinary and extraordinary comforts of life, and preſervation
+of health, which might have proved perpetuall to them, had not a fourth Parlia<g ref="char:EOLhyphen"/>ment
+(which afterward happened) neceſſitated their relief and releaſe.</p>
+            <p>13. And this third Parliament thus diſſolved, O the moſt miſerable effects that
+followed thereon alſo.</p>
+            <p>14. Scandalous and opprobrious Declarations publiſhed to aſperſe and beſmear
+the proceedings of this laſt Parliament, and ſome of the beſt Members thereof;
+yea, Proclamations ſet out to thoſe effects, thereby extremely to diſ-hearten the
+Subjects, yea, and plainly forbidding them once to name a Parliament, or to de<g ref="char:EOLhyphen"/>ſire
+them any more.</p>
+            <p>15. Whence, immediately guſhed out (this damme of Parliaments thus being
+broken down) the violent inundations (even to a deluge of miſeries) of mighty
+ſummes of money, got by that ſtrange and ſtraining project of Knight-hood; yet,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a faire colour and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Law for it, and for all the reſt that followed.</p>
+            <p>16. As, the moſt burthen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Book of Rates; the moſt h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avy and unheard of (till
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en) taxation of Ship-money; the enlargement of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> contrary to <hi>Magnae
+Charta;</hi> the injurious exaction of Coat and Conduct <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+away of the Train'd-Bands Armes; the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+into their hands, and keeping it firſt from the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+to be had thence, but at moſt exceſſive rates.</p>
+            <p>17. The deſtruction of the Forreſt of <hi>Dean,</hi> that moſt famous Magazine, and
+Timber-ſtore-houſe of the whole Kingdome, which was ſold to Papiſts.</p>
+            <p>18. The monſtrous Monopolies of Sope, Salt, Wine, Leather, and Seacoal; yea
+almoſt of all things in the Kingdome of moſt neceſſary and common uſe.</p>
+            <p>19. Reſtraint of Subjects Liberties in their Trades and Habitations; for refu<g ref="char:EOLhyphen"/>ſall
+of which foreſaid heavy preſſures, O what great numbers of the Kings moſt
+loyall Subjects, were vext with long and languiſhing ſuites, ſome fined and confi<g ref="char:EOLhyphen"/>ned
+to priſons, to the loſſe of health in many, of life in ſome; Some having their
+houſes broke open, their goods ſeized on, their ſtudies or cloſets ſearched for wri<g ref="char:EOLhyphen"/>tings,
+books and papers to undoe them; Some interrupted alſo in their Sea-Voy<g ref="char:EOLhyphen"/>ages,
+and their ſhips taken from them, in an hoſtile manner, by Projectors, as by
+Pirates, or common Enemies.</p>
+            <p>20. And, O the cruſhing cruelties of the Star-Chamber-Court, and Councill Ta<g ref="char:EOLhyphen"/>ble,
+in thoſe dayes, chiefly, for the fomenting and increaſing of thoſe and ſuch-like
+moſt exorbitant, and extravagant taxations, preſſures, and unjuſt ſuites againſt the
+Subject.</p>
+            <p>21. Theſe, thus farre for the miſeries of the Common-wealth; now alſo for the
+Churches danger, and diſtreſſe. O the wonderfull and amazing miſeries of the
+Subjects Conſciences alſo! by King <hi>Charles</hi> his conniving at, countenancing and
+encouraging the intolerable burthen of Popiſh Ceremonies, <hi>Romiſh</hi> Innovations,
+and ſuch like other outrages of the Arch-Prelate of <hi>Canterbury,</hi> and his Prelaticall
+Agents and inſtruments, over the whole Kingdome, in matters of religion, Divine
+worſhip, and ſpirituall caſes of Conſcience.</p>
+            <p>22. The moſt palpable and abominable <hi>Romiſh</hi> Ceremonies uſed at the Kings
+Coronation, and inſolent and impious, falſe and deſtructive additions in the Oath
+adminiſtred to the King, at his ſaid firſt Inauguration to the Crown, by that moſt
+arrogant Arch-Biſhop.</p>
+            <p>23. And the manifold other impious impoſitions in matters of religion, divine
+worſhip, and ſpirituall caſes of Conſcience; for refuſing and oppoſing of which, O
+how was the honeſt-hearted and tender-conſcienced ſubject, grievouſly oppreſſed
+by fines, impriſonments, ſtigmatizings, mutilations, whippings, pillories, gagges,
+confinements and baniſhments; yea, and that, into perpetuall cloſe impriſonments
+in the moſt deſolate, remote, and (as they hoped and intended) remorſleſſe parts
+of the Kingdome.</p>
+            <p>24. The putting down, yea, utterly ruinating of that moſt famous and honoura<g ref="char:EOLhyphen"/>ble
+work, that ever this Kingdom ſaw, in a private way, for the advancement of
+Gods glory in the propagation of the Goſpel, I mean, the Feoffees for buying in
+of Impropriations; Noy, the (then) Atturney-Generall, openly in Court, accu<g ref="char:EOLhyphen"/>ſing
+that bleſſed work to be a worſe plot againſt the Church (he meant the Prelati<g ref="char:EOLhyphen"/>call
+Church ſure,) than the Papiſts Powder plot.</p>
+            <p>25. The advancing (for the moſt part) none, to Eccleſiaſticall Dignities and
+Livings, but Arminians; yea, Popiſh-hearted Pontificians; Suſpending and ſilen<g ref="char:EOLhyphen"/>cing
+with deprivations, degradations, and excommunications, almoſt all the moſt
+pious, painfull and Orthodox learned Paſtours over the kingdom, whom they could
+catch in their ſnares, and all this under a pretence of peace, unity and conformity;
+in which foreſaid caſes, the High-Commiſſion (like the <hi>Spaniſh-</hi> Inquiſition) with
+its moſt pragmaticall pranks, was, all along, moſt intolerable and abominable.</p>
+            <p>26. <hi>Printing-Preſſes,</hi> ſet open for the printing and publiſhing of all ſorts of Po<g ref="char:EOLhyphen"/>piſh
+and Arminian tenets; but, ſhut up and reſtrained from <hi>Printing,</hi> ſound and
+Orthodox Doctrines.</p>
+            <p>27. Nay, not onely thus lamentably moleſting us at home in <hi>England;</hi> but at<g ref="char:EOLhyphen"/>tempting
+the like on our Brethren of <hi>Scotland,</hi> indevouring to impoſe upon their
+conſciences alſo, a New Liturgye, and a book of Canons, upon the firſt introdu<g ref="char:EOLhyphen"/>cing
+whereof into their Church, they not induring them, threw ſtones and ſtooles
+at the Arch-Biſhop of St <hi>Andrews</hi> head, and beat him out of the Church, crying
+out, a <hi>Pape,</hi> a <hi>Pape,</hi> and ſo rid themſelves of them.</p>
+            <p>28. Upon which refuſall of theirs, O what foule calumnies and ſcoffes were im<g ref="char:EOLhyphen"/>mediately
+caſt upon them, and they called and counted rebels and Traytors; yea,
+ſo proclaimed in all Churches in <hi>England.</hi>
+            </p>
+            <p>29. An Army was alſo raiſed to oppreſſe and ſuppreſſe them, for thus reſiſting
+thoſe the Kings and the Arch-prelates moſt injurious impoſitions on them.</p>
+            <p>30. Our Brethren of <hi>Scotland</hi> likewiſe raiſing an Army in their own juſt defence,
+and by force of armes, inforcing their own peace.</p>
+            <p>31. A firſt pacification being then made by the King, and ſome of his Nobility,
+and ratified under hand and Seal twixt them and the <hi>Scots;</hi> yet was it ſhortly after
+ſhamefully violated, and broken quite off by the Arch-prelate of <hi>Canterbury,</hi> and the
+Earle of <hi>Straford.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>4. Parliament.</head>
+            <p>32. A fourth Parliament was thereupon ſhortly after called again, by thoſe com<g ref="char:EOLhyphen"/>plotters
+meanes, but to a very ill intent, and another Parliament ſummoned alſo
+at the ſame time by the Earle of <hi>Straford</hi> in <hi>Ireland,</hi> both of them onely to levy and
+procure monies to raiſe another Army, and wage a new Warre againſt the <hi>Scots,</hi>
+            </p>
+            <p>33. The Ships and goods of our Brethren of <hi>Scotland,</hi> were, in all parts and ports
+of this kingdom, and of <hi>Ireland,</hi> alſo ſurpriſed and ſeized on for the King; their
+Commiſſioners denyed audience to make their juſt defence to the King, and the
+whole kingdome of <hi>Scotland</hi> and <hi>England</hi> too, hereupon much diſtracted and di<g ref="char:EOLunhyphen"/>ſtempered
+with leavying of monies, and impriſoning all among us that refuſed the
+ſame.</p>
+            <p>34. This Parliament alſo refuſing to comply with the King, <hi>Cant,</hi> and <hi>Straford</hi>
+in this Epiſcopall warre againſt the <hi>Scots,</hi> was ſoon diſſolved and broken up by them
+and thereupon they returned to their former wayes of waſte and confuſion, and the
+very next day after the diſſolution thereof ſome eminent members of both Houſes,
+had their Chambers, and ſtudies, yea their cabinets and very pockets of their
+wearing cloathes (betimes in the morning before they were out of their beds)
+ſearched for letters and writings, and ſome of them alſo impriſoned, and a falſe
+and moſt ſcandalous declaration was publiſhed againſt the Houſe of Commons in
+the Kings name.</p>
+            <p>35. A forced Loan of money was attempted in the City of <hi>London,</hi> to be made
+a preſident (if it prevailed there) for the whole kingdom, but ſome Aldermen re<g ref="char:EOLhyphen"/>fuſing,
+were ſorely threatned and impriſoned.</p>
+            <p>36. In which interim, the Clergies Convocation continuing (notwithſtanding
+the diſſolution of the Parliament) new conſcience-oppreſſing Canons were forged,
+and a ſtrange Oath, with a monſtrous <hi>&amp;c.</hi> in it, was framed for the eſtabliſhing of
+the Biſhops Hierarchy, with ſevere puniſhments on the refuſers to take it.</p>
+            <p>37. In this Convocation ſore taxations were alſo impoſed upon the whole Cler<g ref="char:EOLhyphen"/>gie,
+even no leſſe than ſix Subſidies, beſides a bountifull contribution to forward
+that intended warre againſt our brethren of <hi>Scotland.</hi>
+            </p>
+            <p>38. For the advancing of which ſaid ſummes for this warre, the popiſh pontifi<g ref="char:EOLhyphen"/>cian
+party, and their ſcandalous prieſts were moſt free and forward; yea, and a
+ſolemn prayer was compoſed and impoſed by the Biſhops on their Miniſters every
+where to be uſed and read in all Churches againſt the Scots, as rebels and traytors.</p>
+            <p>39. The papiſts alſo in a high meaſure enjoyed even almoſt a totall toleration;
+and a Popes Nuncio ſuffered among us to act and govern all Romiſh affaires, yea a
+kinde of a private popiſh-parliament kept in the kingdom, and popiſh juriſdictions
+erected among them.</p>
+            <p>40. Commiſſions were alſo (ſecretly) iſſued out for ſome great and eminent pa<g ref="char:EOLhyphen"/>piſts,
+for martiall Commands, for levying of Souldiers, and ſtrengthening their
+party with Armes and Ammunition of all ſorts, and in great plenty.</p>
+            <p>41. His Majeſties treaſure was by theſe meanes ſo extreamly exhauſted and his
+revenues ſo anticipated, that he was inforced to compell (as it were) his own Ser<g ref="char:EOLhyphen"/>vants,
+Judges, and Officers of all ſorts, to lend him great ſummes of money, aad
+priſons filled with refuſers of theſe and the other illegall payments; yea, many
+High-Sheriffes ſummoned into the Starre-chamber, and to the Councill-Board,
+and ſome of them impriſoned for not being quick enough in levying Ship-money,
+and ſuch like intolerable taxations.</p>
+            <p>
+               <pb facs="tcp:121803:2"/>42. In ſumme, the whole kingdome was now brought into a lamentable and lan<g ref="char:EOLhyphen"/>guiſhing
+condition of being moſt miſerably bought and ſold to any that could give
+and contribute moſt of might and malice againſt us, and no hope of humane help,
+but dolour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſperation and deſtruction, to be the portion of all.</p>
+            <p>43. In which interim, our Brethren of <hi>Scotland</hi> being entred into our kingdome,
+for their own juſt defence, the King had advanced his Royall-Standard at <hi>York,</hi>
+where the creame of the kingdome, Nobles, and Gentry, being aſſembled, and a
+treaty twixt the prime of both Armies had at <hi>Rippon,</hi> for a faire and peaceable accom<g ref="char:EOLhyphen"/>modation,
+the King was, at laſt, inforced to take his Nobles Counſell, and in the
+firſt place, a ceſſation of Armes agreed on; and then this fifth preſent <hi>Parliament,
+(the Parliament</hi> of <hi>Parliaments,)</hi> was neceſſitouſly reſolved on to begin, <hi>November</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1640.</p>
+         </div>
+         <div type="part">
+            <head>5 Parliament, <date>Anno 1640. Novemb. 3.</date>
+            </head>
+            <p>44. But, behold, a deſperate plot and deſign was herein alſo, immediately, ſet on
+foot, to ſpo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le or poyſon it in the very <hi>Embrio</hi> and conſtitution of it, in the firſt
+c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyce of the Members thereof, by Letters from the King, Queen, malignant and
+popiſh Earles, Lords, Knights, and Gentry, poſted into all parts of the kingdome,
+to make a ſtrong party for them: But, by admirable divine providence, this their
+plot was counterplotted, and wonderfully fruſtrated, and the Parliament moſt
+hopefully congregated and ſetled.</p>
+            <p>45. Shortly after, a very formidable <hi>Spaniſh</hi>-Fleet, or <hi>Armado,</hi> appeared on our
+<hi>Engliſh</hi> narrow Seas, in ſight of <hi>Dover,</hi> and was comming in (as was, on very
+ſtrong grounds, more than probably conjectured) as a third party, to help to deſtroy
+us; the <hi>Spaniards</hi> hoping, that by this time, we and the <hi>Scots</hi> were together by the
+ears, but they were by Gods mercy, beaten off from us by our Neighbours of <hi>Hol<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>46. In the time of ours and the <hi>Scots</hi> Armies reſiding in the North, which was
+in <hi>June</hi> 1641. the Popiſh and malignant Lords and Prelates, fearing the effects of
+this preſent Parliament, complotted together to diſaffect that our <hi>Engliſh</hi> Army a<g ref="char:EOLhyphen"/>gainſt
+the Parliament, and indevoured to bring it out of the North, Southward,
+and ſo to <hi>London,</hi> to compell the Parliament to ſuch limits and rules as they thought
+fit.</p>
+            <p>47. For the advancing of which deſigne, the Earle of <hi>Straford,</hi> then priſoner in
+the Tower, attempted an eſcape, with Sir <hi>William Belfore,</hi> then Leivtenant of the
+<hi>Tower,</hi> promiſing and aſſuring him twenty thouſand pound, and the marriage of
+his daughter to Sir <hi>Williams</hi> Son, if he would but conſent unto and aſſiſt his eſcape;
+but loyall Sir <hi>William</hi> hated ſuch bribes of trechery, and ſtill kept him faſt, and ſo
+the neck of all that plot was broken.</p>
+            <p>48. Then, they attempted by foule and falſe ſcandals on the Parliament, to in<g ref="char:EOLhyphen"/>tice
+the Army of the Scots, (then, ſtill in the North) to a newtrality, and to ſit ſtill
+whiles our Engliſh army acted the farther deſignes hatched and hammered ſtill in
+their heads and hearts, but this plot prevailed not neither. <hi>(All theſe preceding
+paſſages, were the confuſed effects of 15 or 16 yeares of the Kings reig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.)</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <date>Anno 1641. Octob. 23.</date>
+            </head>
+            <p>49. About this time, that moſt horrid and inhumane bloody rebellion and mon<g ref="char:EOLhyphen"/>ſtrous
+maſſacring of almoſt 200000 innocent Engliſh Proteſtants, men, women,
+and children, brake out in <hi>Ireland,</hi> namely, about <hi>October</hi> 23. 1641. (This alſo
+being a main branch of this moſt miſchievous deſign againſt this Parliament, by
+Gods wonderfull power) and providence, ſo firmly fixed and ſetled, that they knew
+not how to ruinate it) thoſe accurſed Rebels having had their principall encou<g ref="char:EOLhyphen"/>ragements
+and Commiſſions to authorize them in that horrid and hideous rebelli<g ref="char:EOLhyphen"/>on
+from the Court of <hi>England,</hi> and of purpoſe to have made <hi>England</hi> the chiefe
+ſeat of the warre, and of all the papiſts, prelates, and malignants utmoſt wrath and
+rage.</p>
+            <p>50. For the ſtill effecting, and underhand working on, of this wicked deſigne,
+the malignant party in private, much prevailing ſtill; the deſigne now went on,
+chiefly againſt the City of <hi>London,</hi> for which purpoſe, the noble and loyall Leivte<g ref="char:EOLhyphen"/>nant
+of the Tower, Sir <hi>William Belfore,</hi> was (for his loyalty) diſplaced by the King,
+from his Leivtenantſhip, and popiſh Lord <hi>Cotting<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> made Conſtable of the
+Tower; but his dangerous deſignes being ſoon diſcovered, he was as ſoon diſpla<g ref="char:EOLhyphen"/>ced;
+and Colonell <hi>Lunsford,</hi> (not long before, a Newgate-bird, and fitter for
+Newgate) was made Leivtenant of the Tower; But, he alſo by the Parliaments
+petition and importunity to the King, was diſplaced; and Sir <hi>John Byron,</hi> a de<g ref="char:EOLhyphen"/>ſperate
+malignant (who afterward proved the moſt bloody Lord <hi>Byron</hi> in <hi>Cheſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire)</hi>
+was made Leivtenant of the Tower, in <hi>Lunsfords</hi> ſtead; but he alſo, on many juſt
+jealouſies being petitioned againſt, was at length, with much adoe removed and
+put out thence, and Sir <hi>John Co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yers,</hi> by the power of the Parliament, was put in
+his place.</p>
+            <p>51. About which time, a moſt wicked fellow<g ref="char:punc">▪</g> ſent to Mr. <hi>John Pymm</hi> (a moſt
+pious Patriot of his Country, and then a moſt eminent member of the Houſe of
+Commons) a moſt reviling Letter, therein calling him traytor, and in the ſaid Let<g ref="char:EOLhyphen"/>ter
+incloſed a plague-ſore plaiſter, thinking thereby to have deſtroyed him, But,
+God mightily preſerved him from the infection of it.</p>
+            <p>52. None of all theſe plots, yet, prevailing againſt the Parliament, neither in
+generalls nor particulars, they yet, perſiſt to plot and attempt againſt it; and about
+this time found occaſions, craftily and cauſeleſly (in ſecret) to foment many jealou<g ref="char:EOLhyphen"/>ſies
+and jarre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to diſ-joynt both Houſes of Parliament, within themſelves; thereby
+at leaſt, to obſtruct and retard their (then) moſt weighty, and great affaires in
+Church and State.</p>
+            <p>
+               <pb facs="tcp:121803:1"/>53. The Biſhops alſo themſelves had a peſtilent
+plot about this time, to ſubvert and overthrow the
+Parliament, by endevouring to get the King to
+proteſt againſt their proceedings in it; But twelve
+of them were thereupon preſently imp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ached of
+high treaſon, and ten of them impriſoned in the
+Towre of <hi>London,</hi> and, afterward, they were all
+diſabled from ever ſitting again in the Parliament.</p>
+            <p>54. After this, the King himſelf (being guar<g ref="char:EOLhyphen"/>ded
+with about 500 armed, ruſſianly deſperate
+Cavaliers or Souldiers) violently ruſhed into the
+Houſe of Commons, accuſed five of their moſt
+eminent and pious Members of trea<g ref="char:cmbAbbrStroke">̄</g>ſon, demand<g ref="char:EOLhyphen"/>ed
+their perſons to be delivered up unto him, in<g ref="char:EOLhyphen"/>tending
+to deſtroy all that reſiſted him therein;
+but this plot was bleſſedly croſt, by the happy ab<g ref="char:EOLhyphen"/>ſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+of the Gentlemen; this plot was attempted,
+<hi>Jan.</hi> 4. 1641.</p>
+         </div>
+         <div type="part">
+            <head>
+               <date>Anno 1642.</date>
+            </head>
+            <p>55. After this, one <hi>Binion,</hi> a Silkman of <hi>London;</hi>
+and the <hi>Kentiſh</hi> Malignants, wherein Sir <hi>Edward
+Deering,</hi> had a principall hand, framed dangerous
+and deſtructive petitions againſt the proceedings
+of the Parliament; but were both moſt juſtly re<g ref="char:EOLhyphen"/>jected,
+and themſelves fined and impriſoned for
+them.</p>
+            <p>56. Immediately after this, things grew ſtill,
+worſe and worſe among the malignants, the King
+himſelf in unjuſt diſcontent (by the deſperate and
+wicked counſell of that pernicious <hi>Cataline,</hi> the
+young Lord <hi>Digby)</hi> forſakes the Parliament, and
+getting the Prince to him, leaves <hi>London</hi> and pre<g ref="char:EOLhyphen"/>ſently
+poſts into the North, and there attempts to
+get <hi>Hull</hi> into his hands, but was happily prevented
+and bravely oppoſed by Sir <hi>John Hotham,</hi> then, in
+that time of his outward and ſeeming fidelity.</p>
+            <p>57. The King being at <hi>York,</hi> interdicts the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi>
+then, ſet on foot, by the Parliament, for their
+juſt ſafety and defence; endevouring to remove
+the Term from the City of <hi>London,</hi> but in both is
+oppoſed by the Parliament.</p>
+            <p>58. The Lords and Gentry of <hi>Ireland,</hi> and of
+<hi>Scotland</hi> too, petition the King, to return to his
+Parliament, yea and the Gentry and Commons of
+<hi>Yorkeſhire</hi> do the like, but are all rejected.</p>
+            <p>59. The King ſet on foot a moſt illegall Com<g ref="char:EOLhyphen"/>miſſion
+of <hi>Array,</hi> to claſh againſt the Parliaments
+<hi>Militia,</hi> which occaſioned much miſchief and mi<g ref="char:EOLhyphen"/>ſery
+over the whole Kingdom, but the Parl. <hi>Militia</hi>
+prevailed in moſt places and parts of the land.</p>
+            <p>60. Three letters were intercepted, diſcovering
+a moſt deſperat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lot againſt the Parliament by the
+Royaliſts, Commiſſary <hi>Wìlmot, Digbie, Jermine,
+Crofts,</hi> and others, which by Gods mercy failed
+them and came to nothing, but we in taking ſome
+of their ſhips were advantaged thereby.</p>
+            <p>61. Sir <hi>Richard Gurney,</hi> then Lord Mayor of
+the City of <hi>London,</hi> proving a deſperate malignant
+and <hi>Array</hi> man, and more apt than able to act for
+the King, was croſt in his deſires, and clapt up pri<g ref="char:EOLhyphen"/>ſoner
+in the Tower of <hi>London,</hi> by the power of the
+Parliament.</p>
+            <p>62. Proclamations and Declarations againſt the
+Parliaments proceedings were <hi>Printed</hi> and pub<g ref="char:EOLhyphen"/>liſhed
+and commanded to be read in all the Chur<g ref="char:EOLhyphen"/>ches
+and Chappels over the whole kingdom, with<g ref="char:EOLhyphen"/>in
+the Kings power.</p>
+            <p>
+               <pb facs="tcp:121803:2"/>63. Sir <hi>John Penington,</hi> a brave Sea-man, but a
+deſperate malignant, was conſtituted Admirall of
+the Seas, for the Kings ſervice, but diſplaced and
+diſpoſſeſſed thereof by the Parliament; and the
+moſt noble and loyall Earl of <hi>Warwick</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding
+the Kings Letter and command to in<g ref="char:EOLhyphen"/>terdict
+him therein, and to give way to <hi>Penington)</hi>
+being put in by the power and authority of the
+Parliament, and poſſeſſed of the Ships, moſt hap<g ref="char:EOLhyphen"/>pily
+and honourably kept and continued in the
+place and office for the Parliaments ſervice.</p>
+            <p>64. <hi>Hull</hi> having been long beſieged by that moſt
+miſcheivous and atheiſticall Marqueſſe of <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi>
+for the King; and in that interim, one <hi>Bec<g ref="char:EOLhyphen"/>k</hi>
+with a known Papiſt, plotting to have betrayed
+it, by firing it in foure ſeverall places and then aſ<g ref="char:EOLhyphen"/>ſaulting
+it; yet <hi>Hull,</hi> by Gods mighty providence
+was preſerved, and the King after much loſſe of
+men and money, enforced to leave and forſake it.</p>
+            <p>65. The moſt noble and right honourable Earle
+of <hi>Eſſex</hi> was ordained Lord Generall over all the
+Parliaments Forces, for the preſervation of the
+kingdom, which he famouſly and faithfully ma<g ref="char:EOLhyphen"/>naged
+and marſhalled, as eſpecially <hi>Edge-hill</hi> and
+<hi>Newbery,</hi> and other places can abundantly wit<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>66. A plot to have blown up all the Lord Ge<g ref="char:EOLhyphen"/>neralls
+<hi>Magazine</hi> of powder; and another at <hi>Bever<g ref="char:EOLhyphen"/>ley</hi>
+in <hi>Yorkeſhire,</hi> to have ſlain Sir <hi>John Hotham,</hi>
+both intended by one <hi>David Alexander,</hi> and hired
+thereunto by the Kings party, but both, by Gods
+providence timely prevented.</p>
+            <p>67. Commiſſions granted to popiſh Recuſants
+to levy men and armes againſt the Parliament;
+but the Parlia: publiſhed a Declaration or Prote<g ref="char:EOLhyphen"/>ſtation
+to the whole world againſt the Kings dea<g ref="char:EOLhyphen"/>lings,
+and moſt unjuſt proceedings therein.</p>
+            <p>68. The King received the moſt bloody <hi>Iriſh</hi>
+rebels petition, and permitted their perſons with
+great favour and allowance about him; calling,
+and counting them his good Catholick Subjects;
+but utterly rejecting the Parliaments petition, (ex<g ref="char:EOLhyphen"/>hibited
+by the Lord Generall) deſiring peace and
+reconciliation with him.</p>
+            <p>69. A Treaty of peace was really intended by
+the Parliament, but meerly pretended and fraudu<g ref="char:EOLhyphen"/>lently
+for a while, tranſacted by the Royaliſts; in
+which interim, that moſt bloody bickering at
+<hi>Brainford,</hi> was moſt treacherouſly committed by
+the Kings party, and a moſt wicked piece of villa<g ref="char:EOLhyphen"/>ny
+carryed on therein, but (though with much
+loſſe on both ſides, but eſpecially on theirs) by
+Gods great mercy the miſchiefe prevented, and
+the City of <hi>London</hi> mightily preſerved.</p>
+            <p>70. A dangerous plot againſt the kingdom, in
+new High-Sheriffes to be liſted by the King, for
+his better collecting of the 400000 <hi>li.</hi> Subſidies,
+intended to have been confirmed to the King in
+a former Parliament; but, that plot croſt by the
+Parliaments providence, and an Ordinance of
+Parliament ſet on foot for the ſucceſſefull Aſſoci<g ref="char:EOLhyphen"/>ation
+of Counties for mutuall defence one of an<g ref="char:EOLhyphen"/>other,
+againſt regall injurious taxations and op<g ref="char:EOLhyphen"/>preſſions
+on them.</p>
+            <p>71. A wicked deſign of the Royaliſts at <hi>Oxford</hi>
+and elſewhere, to proceed againſt the Parliaments
+priſoners, as traytors, and ſo to put them to death;
+by which Doctor <hi>Baſtwick,</hi> and Captain <hi>Lilburn,</hi>
+were to have been tryed for their lives; but pre<g ref="char:EOLhyphen"/>vented
+by an Ordinance of Parliament for exe<g ref="char:EOLhyphen"/>cution
+of a <hi>Lex Talionis,</hi> and ſo of executing the
+Royall priſoners among us.</p>
+         </div>
+         <div type="part">
+            <head>
+               <date>Anno 1643.</date>
+            </head>
+            <p>72. A notable plot againſt the City of <hi>London,</hi>
+immediately upon the Cities preferring a petition
+to the King, by the hands of two truſty Alder<g ref="char:EOLhyphen"/>men,
+and foure Commoners of the ſaid City, in
+reply to which petition, the King ſending as his<pb facs="tcp:121803:1"/>
+meſſenger, one Captain <hi>Hern</hi> to the City, and the
+whole body of the City aſſembling at a <hi>Common-Hall,</hi>
+(as they terme it) in their <hi>Guild-Hall,</hi> this
+<hi>Hern</hi> deſires <hi>Faire-play above-board</hi> of them; But
+the buſineſſe being found to be a notable deſigne
+of the malignant-Citizens againſt the Parliament
+and the (then) Lord Mayor of <hi>London,</hi> and the
+Government of their City, the honeſt, and farre
+<hi>major</hi> party, cry out in the hearing of <hi>Hern,</hi> they
+would live and dye with the Parliament, and ſo
+ſent <hi>Hern</hi> away with a flea in his eare.</p>
+            <p>73. Another plot immediately after, contrived
+by the King and his agents at <hi>Oxford,</hi> by a Letter
+ſent by his Majeſty to all the Freemen, Journey<g ref="char:EOLhyphen"/>men
+and Apprentices, of the ſaid City to aſſem<g ref="char:EOLhyphen"/>ble
+at their ſeverall Halls; and there the Maſters
+and Wardens of all Companies to read the Kings
+Letter to them, and to perſwade them to yeeld to
+all the Kings commands againſt the Parliament
+and City; but this letter was nipt and croſt alſo in
+the neck and nick of it, and voted by the Parlia<g ref="char:EOLhyphen"/>ment
+to be evill and ſcandalous.</p>
+            <p>74. A plot alſo to betray <hi>Briſtol</hi> into the Royal<g ref="char:EOLhyphen"/>liſts
+hands by one <hi>Yeomous</hi> and <hi>Bowcher,</hi> and divers
+other their aſſociates; but by Gods mercy the plot being
+timely diſcovered, and the danger avoyded,
+thoſe two principall conſpirators were by <hi>Martiall
+Law</hi> condemned, and hanged, and ſo the plot ut<g ref="char:EOLhyphen"/>terly
+fruſtrated.</p>
+            <p>75. <hi>Cheapeſide croſſe, Chaering-croſſe,</hi> and all other
+croſſes, in and about <hi>London,</hi> utterly demoliſhed
+and pulled down, and that abominable and blaſ<g ref="char:EOLhyphen"/>phemous
+book of tolerating ſports and paſtimes
+on the Lords daies, voted to be burnt, and ſhortly
+after accordingly burnt, together with many cru<g ref="char:EOLhyphen"/>cifixes
+and popiſh trinckets and trumperies, in the
+very ſame place where <hi>Cheapeſide-croſſe</hi> ſtood.</p>
+            <p>76. <hi>M. Prynne</hi> ſent by the Parliament to the
+Towre of <hi>London,</hi> to ſearch the Arch prelate of
+<hi>Canterburies</hi> chamber and Study there, where he
+was priſoner, who accordingly ſearching his Stu<g ref="char:EOLhyphen"/>dy,
+and his pockets of his wearing cloathes (a juſt
+requitall of his dealing with <hi>Mr. Pryn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and o<g ref="char:EOLhyphen"/>thers)
+found the originall <hi>Scotch</hi> Service-book, with
+the Arch Biſhops owne hand-writings in it, the
+cauſe of all the <hi>Scots</hi> warres; and his Diary, De<g ref="char:EOLhyphen"/>votions,
+and diſcoveries under his owne hands of
+matters of high concernment.</p>
+            <p>77. The City of <hi>London</hi> to have been betrayed
+into the hands of the Royaliſts, under a pretence
+of a petition for peace, plotted by <hi>Mr. Waller,</hi> a
+member of the H<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe of Commons, <hi>M. Tompkins,
+Mr. Challenor,</hi> and others; and this wicked plot,
+termed by King <hi>Charles</hi> in his letter to the Queen,
+one of his Fine Deſignes; But God manifeſted
+them to be wicked and accurſed Deſignes; and
+<hi>Waller</hi> one of the prime complotters, was by the
+ſentence of the Parliament fined 10000 <hi>li.</hi> in his
+eſtate, and ſent out of the kingdom into perpetu<g ref="char:EOLhyphen"/>all
+baniſhment, and <hi>Tompkins</hi> and <hi>Challenor</hi> hang<g ref="char:EOLhyphen"/>ed
+in <hi>London.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:121803:2"/>78. The breaking out of Sir <hi>John Hothams</hi> rot<g ref="char:EOLhyphen"/>ten-heart
+and infidelity to the Parliament, in his
+intended and attempted plot for the betraying of
+that mighty ſtrong Town of <hi>Hull</hi> into the Queens
+hands, which treachery was plotted and contrived
+between Sir <hi>John</hi> the father, Captain <hi>Hotham</hi> his
+ſon, and Sir <hi>Edward Roades,</hi> and began to be ſu<g ref="char:EOLhyphen"/>ſpected,
+by Sir <hi>John Hothams</hi> deſerting of the moſt
+noble Lord <hi>Fairfax,</hi> by an intercepeed letter of the Queens to the King, and divers other ſumptomes of it, but eſpecially by Captain <hi>Moyers</hi> letter to <hi>Mr. Ripley,</hi> and <hi>Mr. Ripley's</hi> faithfull acquainting the Mayor of <hi>Hull</hi> therewith, and their firſt ſeizing on the Block-houſes, Caſtles, and Commanders of them, and at length their apprehending of the perſons of Sir <hi>John Hotham</hi> and Captain <hi>Hotham</hi> his Son was alſo apprehended, and both of them beheaded at the Tower of <hi>London.</hi>
+            </p>
+            <p>79. A deſperate plot for the betraying of the Ci<g ref="char:EOLhyphen"/>ty
+or Town of <hi>Lincolne,</hi> by the two <hi>Purfries,</hi> two
+Captains of <hi>Hull,</hi> who let in 60 Cavaliers by night
+in diſguiſed habits, and who iſſuing out about 12
+of the clock that night, to act their deſign, where a
+plain fellow of the Town diſcharging a piece of
+Canon upon them, ſlew 10 of them at one ſhot,
+the reſt ſlain and taken by the centinels and Soul<g ref="char:EOLhyphen"/>diers
+of the town, and ſo by Gods mercy the City
+preſerved.</p>
+            <p>80. The Queen wrote a dangerous letter to the
+King, to come with all his forces to ſurprize <hi>Lon<g ref="char:EOLhyphen"/>don;</hi>
+but by Gods over-powring wiſedome and
+good providence, the King refuſing that counſell
+reſolved to take <hi>Glouceſter</hi> firſt, which he ſiercely
+aſſaulted, but was as bravely repulſed, and by Gods
+bleſſing on <hi>Major Generall Maſſies</hi> fidelity, &amp; mag<g ref="char:EOLhyphen"/>nanimity
+of ſpirit, timely aide comming to relieve
+the town, it was admirably freed, and by the Lord
+Generalls Army, and the City of <hi>Londons</hi> Regi<g ref="char:EOLhyphen"/>ments,
+delivered.</p>
+            <p>81. A deſperate rebellion raiſed by the <hi>Kentiſh</hi>
+malignants, but by Gods mercy timely ſuppreſſed
+about <hi>Tunbridge,</hi> by the valour of Colonell <hi>Brown,</hi>
+&amp; the wel-affected Gentry of the County of <hi>Kent.</hi>
+            </p>
+            <p>82. A Ship bound from <hi>Denmark</hi> to the King,
+of about 300 tun, richly laden with armes and am<g ref="char:EOLhyphen"/>munition;
+another Ship bound from <hi>Newcaſtle</hi> to
+<hi>Holland,</hi> laden with Sea-coale, but in the midſt
+thereof was found between 3 &amp; 4000 <hi>li,</hi> hid in the
+coales, ſent to buy arms for the King; and a third
+great ſhip called the <hi>Fellowſhip,</hi> of at leaſt 400
+tun, carrying 24 pieces of Ordnance, all theſe 3
+ſhips taken by the Parlia: ſhips, &amp; made prize of.</p>
+            <p>83. The comming in of our brethren of <hi>Scotl.</hi>
+with an army of at leaſt 20000 horſe and foot, in<g ref="char:EOLhyphen"/>vited
+thereunto by the Parl: in the bitter depth of
+winter, when they marched up to the middle in
+ſnow, and were forced to bring their Artillery o<g ref="char:EOLhyphen"/>ver
+the ice of the frozen river of <hi>Tyne,</hi> and the Ci<g ref="char:EOLhyphen"/>tizens
+of <hi>London</hi> lent the Parliament a 100000 <hi>li.</hi>
+for the <hi>Scots</hi> firſt pay, ro encourage their advance to
+help us againſt the Kings forces.</p>
+            <p>84. A deſperate plot of the Rovaliſts to ſtarve
+up the City of <hi>London,</hi> by breaking into <hi>Surrey, Suſ<g ref="char:EOLhyphen"/>ſex,
+Kent,</hi> &amp; the other aſſociated Counties, but diſ<g ref="char:EOLhyphen"/>appointed
+by the Parl: Victories at <hi>Au<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> &amp; <hi>Alſ<g ref="char:EOLhyphen"/>ford,</hi>
+fought by Sir <hi>Will: Waller,</hi> with the help of
+the City of <hi>Londons</hi> regiments; and the Royaliſts
+plots to hinder our brethren of <hi>Scotl:</hi> comming in
+to our help, by letters and Embaſſadors ſent from
+<hi>France,</hi> and meſſengers from King <hi>Charles</hi> to in<g ref="char:EOLhyphen"/>veagle
+them to keep from us; but all in vain by
+Gods good providence and mercy to us.</p>
+            <p>85. The King granted a ceſſation of arms with
+the bloody rebels of <hi>Ireland,</hi> and afterward juſtifi<g ref="char:EOLhyphen"/>ed
+it by a Declaration of his, printed and publiſhed
+at <hi>Oxford;</hi> but it was remarkably obſerved, that he
+never proſpered in any of his great deſigns after it.</p>
+            <p>86. A Solemn League and Covenant taken by
+the Lords and Commons in Parl: &amp; by the City
+of <hi>London,</hi> and all parts of the kingdom, in the Par<g ref="char:EOLhyphen"/>liaments
+power, for a pure reformation of Religion
+and Church-Government, and a mutuall defence
+betwixt us and our brethren of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:121803:1"/>87. <hi>A</hi> notable plot by the Royaliſts to have <hi>Nottingham</hi> town &amp; Caſtle, betrayed
+unto them, the Officers therein being proffered above 10000 <hi>li.</hi> to c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſent to it;
+but prevented by Gods mercy in the fidelity of Colonell <hi>Hutchinſon,</hi> who was then
+the Governour thereof.</p>
+            <p>88. <hi>A</hi> Generall plot againſt the Proteſtant Religion over all Chriſtendom, and
+the <hi>Danes</hi> and <hi>Hollanders</hi> alſo, contribute to helpe King <hi>Charles</hi> therein; but God
+wrought a mighty overture therein by the ſudden breaking out of the <hi>Danes</hi> plot a<g ref="char:EOLhyphen"/>gainſt
+the <hi>Swedes,</hi> and their over-running almoſt all <hi>Denmark</hi> thereupon.</p>
+            <p>89. <hi>A</hi> deſperate plot againſt the City of <hi>London,</hi> under a pretence of petitioning
+for peace, acted by Sir <hi>Baſil Brook,</hi> Colonell <hi>Read,</hi> and one Mr. <hi>Riley,</hi> &amp; <hi>Vilet,</hi> 2
+Citizens of <hi>London,</hi> &amp; others, but by Gods providence diſcovered and prevented.</p>
+         </div>
+         <div type="part">
+            <head>
+               <date>1645.</date>
+            </head>
+            <p>90. Two deſperate plots for the betraying of <hi>Ailsbury</hi> into the Royaliſts hands;
+and another againſt <hi>Southampton,</hi> but all three by Gods mercy timely diſcovered al<g ref="char:EOLhyphen"/>ſo
+and prevented.</p>
+            <p>91. One <hi>Mr. Edward Stanford,</hi> a Papiſt, plotted with Captain <hi>Backhouſe</hi> a Capt. of
+Horſe, under Colonell <hi>Maſſie</hi> for the betraying of the City of <hi>Glouceſter</hi> into the
+Enemies hands, and proffered 5000 <hi>li.</hi> for a reward thereof, 200 <hi>li.</hi> whereof was
+paid in hand to the ſaid Captain, but by Gods providence the plot fruſtrated, and
+<hi>Glouceſter</hi> ſafely preſerved.</p>
+            <p>92. <hi>Englands</hi> great wonder to Gods glory, there being (about <hi>May</hi> 30. 1644.)
+ſix brave armies in the kingdome, on the Parliaments ſide, and other forces for
+defence of the City of <hi>London,</hi> beſides.</p>
+            <p>93. A plot to have betrayed our whole Army in <hi>Cornwall</hi> in the <hi>VVeſt,</hi> but by
+Gods bleſſing moſt of the Souldiers lives were preſerved, though with the loſſe of
+our Artillery.</p>
+            <p>94. Sir <hi>Alexander Carew,</hi> Sir <hi>John Hot<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am</hi> Captain <hi>Hotham,</hi> and the Arch-prelate
+of <hi>Canterbury</hi> beheaded on Tower-Hill for treaſon againſt the Parliament.</p>
+            <p>95. <hi>A</hi> peace onely pretended by the royaliſts at <hi>Uxbridge,</hi> and a treacherous peti<g ref="char:EOLhyphen"/>tion
+framed by the malignants of <hi>Buckingham</hi> ſhire, wherein one Sir <hi>John Lawrence</hi>
+of that County was a great ſtickler, but the miſchief of both was fruſtrated.</p>
+            <p>96. <hi>A</hi> deſperate aſſault on <hi>Melcomb-Regis,</hi> to have betrayed it into the royaliſts
+hands, wherein divers of the malignant Townſmen had a principall hand, and Co<g ref="char:EOLhyphen"/>lonell
+<hi>Goring,</hi> and Sir <hi>Lewis Dives,</hi> were agents therein, but by Gods bleſſing the
+plot was fruſtrated, the Town and Forts recovered, and two ſhips with rich prize
+from <hi>Rhoan</hi> in <hi>France,</hi> were ſeized on to make amends for their trouble.</p>
+         </div>
+         <div type="part">
+            <head>
+               <date>1645.</date>
+            </head>
+            <p>97. Divers Earles and Lords diſaffecting the Kings courſes, forſook <hi>Oxford,</hi> and
+came in and ſubmitted themſelves to the Parliament.</p>
+            <p>98. The King in great diſtreſſe after our famous Victory at <hi>Nazeby,</hi> is forced to
+fly up and down from <hi>Leiceſter,</hi> not knowing where to ſtay in ſafety.</p>
+            <p>99. <hi>A</hi> deſperate plot in the Weſt againſt the Parliament, by the Clubmen, but
+by Gods providence turned to the Enemies greateſt hurt in the iſſue.</p>
+            <p>100. <hi>A</hi> devilliſh ſudden plot upon <hi>Scotland,</hi> which was almoſt over run, by trai<g ref="char:EOLhyphen"/>terous
+<hi>Montroſſe;</hi> but as ſuddenly recovered again, by Gods bleſſing on Generall
+<hi>David Leſley,</hi> and <hi>Montroſſe</hi> diſcomfitted and beaten away into the mountaines.</p>
+         </div>
+         <div type="part">
+            <head>
+               <date>1646.</date>
+            </head>
+            <p>101. <hi>A</hi> Diſcovery of groſſe impiety in the King and his <hi>Oxonians,</hi> the King pre<g ref="char:EOLhyphen"/>tending
+a deſired &amp; perſonall treaty with the Parliament, for a wel-grounded peace
+and yet at that time granted a Commiſſion to the Earle of <hi>Glamorgan,</hi> to the ruine
+of all the proteſtants in <hi>Ireland,</hi> and ſo conſequently of us in <hi>England</hi> alſo.</p>
+            <p>102. The King before his departure out of <hi>Oxford,</hi> ſends a Commiſſion or Let<g ref="char:EOLhyphen"/>ter
+to the Marquis of <hi>Ormond,</hi> to make an abſolute peace with thoſe bloody rebels,
+granting them full profeſſion of their <hi>Romiſh</hi> religion, by his voluntary authority, to
+the ſhame of himſelf, and his religion; notwithſtanding which Commiſſion or Let<g ref="char:EOLhyphen"/>ter,
+the King ſent a letter to the Parliament, &amp; another to the City of <hi>London,</hi> prote<g ref="char:EOLhyphen"/>ſting
+in them, that nothing in the world was more deſired by him, than that in reli<g ref="char:EOLhyphen"/>gion
+and peace, with all the comfortable fruits of both, they might thenceforth live
+under him, in all godlineſſe and honeſty; that foreſaid Commiſſion or Letter be<g ref="char:EOLhyphen"/>ing
+diſcovered to the Parliament, after the ſending of thoſe Letters, and thereby
+the notorious unfaithfulneſſe of the King manifeſted to us.</p>
+            <p>
+               <pb facs="tcp:121803:2"/>102. The King (after that diſloyall peace with the bloody <hi>Iriſh)</hi> was now at laſt
+inforced out of abſolute neceſſity to get out of <hi>Oxford</hi> in a moſt diſgracefull diſ<g ref="char:EOLhyphen"/>guiſe,
+as a Servingman to <hi>Aſhburnham,</hi> and by this ignoble eſcape, to put himſelf in<g ref="char:EOLhyphen"/>to
+the hands of our loyall brethren of <hi>Scotland</hi> for ſafeguard. Yet he perſiſts and
+continues at <hi>Newcaſtle</hi> in as much obduracy and hardneſſe of heart as at the firſt,
+and the Lord onely knowes what will become of him, if he return not to God, his
+people, and Parliament, which the Lord in mercy, worke his heart unto, <hi>Amen.</hi>
+            </p>
+            <p>104. The great Seale broken before the Lords and Commons, on Tueſday the
+11, of <hi>Auguſt,</hi> 1646.</p>
+         </div>
+         <div type="part">
+            <head>The Speech of the Lord Louthen, Chancellour of Scotland, to the
+King at Newcaſtle, <date>July, 1646.</date>
+            </head>
+            <p>YOur Majeſty was plcaſed on Monday laſt to call the Lords of Your Coun<g ref="char:EOLhyphen"/>cell
+and Committee, to acquaint them with the Propoſitions, and told them
+before you would deliver Your Anſwer, You would make the ſame known to
+them: The time aſſigned to the Commiſſioners ſtay is ſo ſhort, and the conſe<g ref="char:EOLhyphen"/>quence
+of your Majeſties Anſwer of ſo great importance, either for the perſer<g ref="char:EOLhyphen"/>vation
+or ruine of Your Crowne, and Kingdomes, as we could not be anſwera<g ref="char:EOLhyphen"/>ble
+to God, nor to that Truſt repoſed in us unleſſe we repreſent to your Majeſty
+how neceſſary it is that your Maieſty aſſent to the Propoſitions as the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+of affaires now <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+that the danger and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your refuſall will be remedileſſe, and b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing on a ſuddaine ruine and deſtruction.</p>
+            <p>I ſhall begin firſt with the laſt, which is the danger and ſhall next ſpeake a
+word of the remedy.</p>
+            <p>The differences betwixt your Majeſty and your <hi>Parliament</hi> (which no man
+knoweth better than your Majeſties ſelfe,) are growne to ſuch a height, that af<g ref="char:EOLhyphen"/>ter
+many, bloudy battels; the <hi>Parliament</hi> having your Majeſty, all the Forts,
+Garriſons, and ſtrong holds in their hands, having your Majeſties Revenue, Ex<g ref="char:EOLhyphen"/>ciſe,
+Aſſeſſements, Sequeſtrations, and the Authority to raiſe all the men and
+money in the Kingdome, and having, after many victories and great ſucceſſes, a
+ſtrong Army on Foot, are now in ſuch a p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſture for ſtrength and power: they
+are in a capacity to doe what they will, both in Church and State. And ſome
+are ſo afraid, and others ſo unwilling to ſubmit themſelves to your Majeſties
+Government, that they deſire not you, nor any of your Race, longer to reigne
+over them: But the people are ſo wearied of the Warre, and great burthens they
+doe groane under, are ſo loath to have Monarchieall Government deſtroyed,
+that they dare not attempt to caſt it totally off, till once they ſend Propoſitions of
+Peace to your Majeſty, leaſt the people (without whoſe concurrence they are not
+able to carry on their deſign) ſhould fall from them; but after ſo great Warre and
+trouble, that they may have a perfect ſecurity from oppoſition and Arbitrary pow<g ref="char:EOLhyphen"/>er,
+they have reſolved upon the Propoſitions, which are tendred to your Maje<g ref="char:EOLhyphen"/>ſty,
+as that without which the Kingdome and your people cannot be in ſafety, and
+that there cannot be a firme peace upon any other tearmes.</p>
+            <p>Your Majeſties friends in the Houſes, and the Commiſſioners from <hi>Scotland,</hi>
+(after much wra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing) did conſent to the ſending of thoſe Propoſitions, or to be
+rated the hinderers of peace, or otherwayes to ſend no Propoſitions at all.</p>
+            <p>And now Sir, if your Majeſty (as God fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bid) ſhall refuſe to aſſent to the Pro<g ref="char:EOLhyphen"/>poſitions,
+You will loſe all Your friends in the Houſes, loſe the City, and all the
+Countrey. And all <hi>England</hi> will joyne againſt you as one man; they will proceſſe
+and depoſe you, and ſet up another Government; they will charge us to deliver
+your Majeſty to them, and to render their Garriſons, and remove our Armies out
+of <hi>England,</hi> and upon your Maieſties refuſall of the propoſitions, both King<g ref="char:EOLhyphen"/>domes
+will be conſtrained for their mutuall ſafety, to agree and ſettle Religion
+and peace without You, which (to our unſpeakable griefe) will ruine your Ma<g ref="char:EOLhyphen"/>ieſtyy
+and your poſterity, and if your Maieſty refuſe our faithfull advice (who de<g ref="char:EOLhyphen"/>ſire
+nothing on Earth more than the preſervation of your Maieſties Royall
+Throne.) And if your Maieſty loſe <hi>England</hi> by your wilfulneſſe, You will not be
+permitted to come and reigne in <hi>Scotland.</hi>
+            </p>
+            <p>Sir, we have laid our hands upon our hearts, we have asked Counſell and dire<g ref="char:EOLhyphen"/>ction
+from God, and have had our moſt ſerious thoughts upon the remedy, but
+can finde no other to ſave your Crowne and Kingdomes, than your Maieſties aſ<g ref="char:EOLhyphen"/>ſenting
+to the propoſitions, and dare not ſay but they are higher in ſome things,
+(if it were in our power and option to remedy) than we approved of, but when
+we ſee no other meanes for curing the diſtempers of the Kingdomes, and cloſing
+the breach between your Majeſty and your <hi>Parliament,</hi> our moſt humble and ſafe
+adviſe is, your Majeſty will be graciouſly pleaſed to aſſent to them as the onely
+way to eſtabliſh your Throne; becauſe your Majeſty ſhall be thereby received a<g ref="char:EOLhyphen"/>gaine
+in your <hi>Parliament,</hi> with the applauſe and acclamations of your people, by
+your Royall preſence all friends will be ſtrengthened, and all Enemies, (who feare
+nothing ſo much as the granting the propoſitions) will be weakned; your Maieſty
+will have a fit opportunity hereafter, to offer ſuch propoſitions as You and your
+<hi>Parliament</hi> in wiſedome ſhall thinke fit, for your Crowne and Kingdome, the Ar<g ref="char:EOLhyphen"/>mies
+will be disbanded, and your people finding the ſweet fruit of a peaceable
+Government: you will gaine their hearts and affections, and that will be your
+Maieſties ſtrength and glory, and will recover all that you have loſt in this time of
+tempeſt of trouble.</p>
+            <p>And if it pleaſe God to incline your Royall heart to this adviſe of your humble,
+and faithfull ſervants, who next to the honour and ſervice of God, eſteem nothing
+more pretious, than the ſafety of your perſon, and Crowne: our actions ſhall
+make it appeare, that we eſteem no hazard too great for your Maieſties ſafety, and
+that we are willing to ſacrifice our lives and fortunes for eſtabliſhing your Throne
+and iuſt Right.</p>
+         </div>
+         <byline>Collected by <hi>John Vicars.</hi>
+         </byline>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> by <hi>John Dever</hi> &amp; <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ibbitſon,</hi> for <hi>T. Jenn<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and are to be ſold at the <hi>Royall-Exchange.</hi> 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
